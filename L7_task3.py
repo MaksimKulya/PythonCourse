@@ -57,4 +57,8 @@ cell_1 - cell_2
 cell_1 // cell_2
 cell_1 * cell_2
 
+<<<<<<< HEAD
 cell_1.make_order(5)
+=======
+cell_1.make_order(5)
+>>>>>>> lesson7

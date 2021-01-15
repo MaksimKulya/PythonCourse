@@ -70,7 +70,11 @@ item1.input()
 item1.calc_show()
 print("")
 
+<<<<<<< HEAD
 item2 = Coat(550)  # дает 500, @property работает
+=======
+item2 = Coat(15)  # дает 10, @property работает
+>>>>>>> lesson7
 item2.input()
 item2.calc_show()
 print("")
